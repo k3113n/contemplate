@@ -1,0 +1,19 @@
+{
+  "name": "contemplate",
+  "version": "1.0.0",
+  "description": "A template Node server with a React frontend, built with concurrently",
+  "main": "index.js",  
+  "bin": {
+    "create-contemplate": "index.js"
+  },
+  "keywords": [
+    "template",
+    "npx",
+    "react",
+    "typescript",
+    "express"
+  ],
+  "author": "Kellen Sullivan",
+  "license": "MIT",
+  "dependencies": {}
+}
