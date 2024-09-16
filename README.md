@@ -14,3 +14,9 @@ npm link
 ```bash
 npx create-contemplate your-app-name
 ```
+
+- run your new app
+```bash
+cd your-app-name
+npm start
+```
