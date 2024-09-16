@@ -1,5 +1,5 @@
 # contemplate
-A template Node server with a React frontend, built with concurrently
+A template node.js server with a Vite + React frontend, built with concurrently
 
 
 ## usage
